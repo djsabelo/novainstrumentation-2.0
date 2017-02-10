@@ -6,7 +6,7 @@ Supporting code for Digital Instrumentation class at Universidade Nova de Lisboa
 
 ## Installation
 ### 1. Download and install the required applications
-- [Anaconda](http://continuum.io/downloads) (choose python 2.7);
+- [Anaconda](http://continuum.io/downloads) (choose python 3);
 - [Supporting code](https://github.com/hgamboa/novainstrumentation).
 
 ### 2. Complete the installation
